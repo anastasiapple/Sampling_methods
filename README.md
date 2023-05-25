@@ -1,4 +1,4 @@
-# Simpling_method
+# Simpling method
 Random edge 
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/RE.gif)
 Random node 
