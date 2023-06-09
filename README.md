@@ -8,7 +8,7 @@ Random Walk
 Common Neighbor Award Random Walk
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/CNARW.gif)
 SnowBall
-![image](https://github.com/anastasiapple/Simpling_method/blob/main/CSB.gif)
+![image](https://github.com/anastasiapple/Simpling_method/blob/main/SB.gif)
 BFS
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/BFS.gif)
 Degree Based
