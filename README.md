@@ -1,28 +1,28 @@
-#Simpling methods
+# Simpling methods
 
-##Node Sampling
+## Node Sampling
 
-###Random Node
+### Random Node
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/RN.gif)
 
-###Degree Based
+### Degree Based
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/DB.gif)
 
-##Edge Sampling
+## Edge Sampling
 
-###Random Edge 
+### Random Edge 
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/RE.gif)
 
-##Exploration Sampling
+## Exploration Sampling
 
-###Random Walk
+### Random Walk
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/RW.gif)
 
-###Common Neighbor Award Random Walk
+### Common Neighbor Award Random Walk
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/CNARW.gif)
 
-###SnowBall
+### SnowBall
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/SB.gif)
 
-###BFS
+### BFS
 ![image](https://github.com/anastasiapple/Simpling_method/blob/main/BFS.gif)
