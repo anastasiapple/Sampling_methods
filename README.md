@@ -1,4 +1,4 @@
-# Simpling methods
+# Sampling methods
 
 ## Node Sampling
 
